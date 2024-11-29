@@ -14,13 +14,15 @@ Langkah-langkah untuk menginstal dan menjalankan proyek ini di lingkungan lokal 
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/lyrabot.git```
+   git clone https://github.com/username/lyrabot.git
 
 2. Install dependensi
-   ```pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
 
-3. Penggunaan
-   ```python main.py```
+4. Penggunaan
+   ```bash
+   python main.py
 
 ## Kontak
 
